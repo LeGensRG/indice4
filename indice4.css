@@ -1,0 +1,23 @@
+header{
+	text-align: center;
+	font-size: 30px;
+	height: 20%;
+}
+#text{
+	text-align: center;
+	height: 80%; 
+	font-size: 20px;
+}
+#div1{
+	margin-top: 10%;
+}
+#div2{
+	text-align: center;
+	margin-top: 10%;
+}
+footer{
+	text-align: left;
+	height: 20%;
+	margin-top: 10%;
+	position: relative;
+}
